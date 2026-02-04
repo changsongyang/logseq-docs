@@ -84,7 +84,7 @@
 	- The [[Hiccup]] ClojureScript method is similar to the HTML method, but the markup tends to be more condensed.
 	- It involves embedding media in the following way:
 	- ```clojurescript
-	  [:element :src "Link-To-File"}]
+	  [:element {:src "Link-To-File"}]
 	  ```
 	-
 	- ## Examples
